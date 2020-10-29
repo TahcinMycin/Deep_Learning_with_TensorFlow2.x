@@ -1,4 +1,4 @@
-# Deep_Learning_with_TensorFlow2.x
+# Deep Learning with TensorFlow2.x
 This repository contains some featues of Deep Learing & Transfer learning using these packages
 
   1. Scikit-Learn
